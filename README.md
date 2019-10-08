@@ -8,10 +8,10 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ?: Which of the following scenarios is described by a Bernouilli distribution?
 
-( ) The outcome of rolling a fair die
-( ) The number of snail mail items received by a household per week
-( ) The distribution of weights of newborns in the United States in 2018
-(X) The outcome of tossing a coin
+( ) The outcome of rolling a fair die.
+( ) The number of snail mail items received by a household per week.
+( ) The distribution of weights of newborns in the United States in 2018.
+(X) The outcome of tossing a coin.
 
 ?: Which of the following statements about the standard normal distribution are true?
 
