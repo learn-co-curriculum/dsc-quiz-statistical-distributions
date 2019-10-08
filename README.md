@@ -27,12 +27,12 @@ While we recommend using Python to find the answers to these questions, it is no
 [ ] The numbers you obtain when using a sample are called parameters.
 [X] A random sample is collected when each member of the sample is chosen from the population strictly by chance.
 
-?: Question 4
+?: What steps do you need to take to standardize a normally distributed variable $x$ with mean $\mu$ and standard deviation $\sigma$?
 
-(X) choice
-( ) choice
-( ) choice
-( ) choice
+( ) First, divide all values in $x$ by the standard deviation $\sigma$. Then, substract the mean $\mu$ from all values.
+(X) First, substract the mean $\mu$ from all values in $x$. Then, divide the values by the standard deviation $\sigma$.
+( ) Divide all values in $x$ by the standard deviation $\sigma$. 
+( ) Subtract the mean $\mu$ from all values in $x$. 
 
 ?: Question 5 
 
