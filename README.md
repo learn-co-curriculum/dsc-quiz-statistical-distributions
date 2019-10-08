@@ -20,12 +20,12 @@ While we recommend using Python to find the answers to these questions, it is no
 [ ] The standard normal distribution is not symmetric around the mean.
 [X] The mean, median, and mode of a standard normal distribution are equal.
 
-?: Question 3
+?: Which of the following statements about samples and populations are true?
 
-(X) choice
-( ) choice
-( ) choice
-( ) choice
+[X] A representative sample accurately represents the population.
+[ ] The numbers you obtain when using a population are called statistics.
+[ ] The numbers you obtain when using a sample are called parameters.
+[X] A random sample is collected when each member of the sample is chosen from the population strictly by chance.
 
 ?: Question 4
 
