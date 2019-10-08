@@ -30,15 +30,16 @@ While we recommend using Python to find the answers to these questions, it is no
 ?: What steps do you need to take to standardize a normally distributed variable $x$ with mean $\mu$ and standard deviation $\sigma$?
 
 ( ) First, divide all values in $x$ by the standard deviation $\sigma$. Then, substract the mean $\mu$ from all values.
-(X) First, substract the mean $\mu$ from all values in $x$. Then, divide the values by the standard deviation $\sigma$.
 ( ) Divide all values in $x$ by the standard deviation $\sigma$. 
 ( ) Subtract the mean $\mu$ from all values in $x$. 
+(X) First, substract the mean $\mu$ from all values in $x$. Then, divide the values by the standard deviation $\sigma$.
 
-?: Question 5 
 
-( ) choice
-( ) choice
-(X) choice
-( ) choice
+?: You have an apple whose mass is 120 grams. You can assume that the mass of apples is normally distributed with mean $\mu$ equal to 90 grams and standard deviation $\sigma$ equal to 15 grams. How many standard deviations away from the mean is the mass of your apple?  
+
+(X) An apple with mass 120 grams is 2 standard deviations away from the mean.
+( ) An apple with mass 120 grams is 30 standard deviations away from the mean.
+( ) An apple with mass 120 grams is 8 standard deviations away from the mean.
+( ) An apple with mass 120 grams is -2 standard deviations away from the mean.
 
 ???
