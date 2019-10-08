@@ -6,18 +6,19 @@ While we recommend using Python to find the answers to these questions, it is no
 
 # Quiz - Statistical Distributions
 
-?: Question 1
+?: Which of the following scenarios is described by a Bernouilli distribution?
 
-( ) choice
-(X) choice
-( ) choice
+( ) The outcome of rolling a fair die
+( ) The number of snail mail items received by a household per week
+( ) The distribution of weights of newborns in the United States in 2018
+(X) The outcome of tossing a coin
 
-?: Question 2 with multiple answers
+?: Which of the following statements about the standard normal distribution are true?
 
-[X] choice
-[ ] choice
-[ ] choice
-[X] choice
+[X] The area under the standard normal distribution is equal to 1.
+[X] The mean of the standard normal distribution is equal to 0.
+[ ] The standard normal distribution is not symmetric around the mean.
+[X] The mean, median, and mode of a standard normal distribution are equal.
 
 ?: Question 3
 
