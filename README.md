@@ -51,7 +51,7 @@ Which of the following statements about samples and populations are true?
 ?: Question 4
 
 
-Which of the following options correctly describes the process to standardize a normally distributed variable $x$ with mean $\mu$ and standard deviation $\sigma? 
+Which of the following options correctly describes the process to standardize a normally distributed variable $x$ with mean $\mu$ and standard deviation $\sigma$? 
 
 ( ) First, divide all values in $x$ by the standard deviation $\sigma$. Then, substract the mean $\mu$ from all values.
 
